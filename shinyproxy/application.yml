@@ -27,7 +27,7 @@ proxy:
     groups: admin
   - name: anouk.aguirre
     password: legal@smc
-    groups: neraa_
+    groups: neraa
   - name: neraa
     password: neraa@smc
     groups: neraa_public
